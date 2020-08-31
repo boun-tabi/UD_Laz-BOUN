@@ -4030,4 +4030,5 @@
 # text = Bereepe coles.
 1	Bereepe	Bere	NOUN	_	_	2	nsubj	_	_
 2	coles	ol	VERB	_	_	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+3	.	.	PUNCT	_	_	2	punct	_	_
+
