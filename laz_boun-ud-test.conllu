@@ -250,8 +250,8 @@
 # text = badik uc’uki: domac’kindu
 1	badik	badi	NOUN	Verb	_	2	nsubj	_	_
 2	uc’uki	uc’	VERB	Adverb	_	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	Punc	_	1	punct	_	_
-4	domac’kindu	c’kind	VERB	Verb	_	1	ccomp	_	SpacesAfter=\n
+3	:	:	PUNCT	Punc	_	2	punct	_	_
+4	domac’kindu	c’kind	VERB	Verb	_	2	ccomp	_	SpacesAfter=\n
 
 # sent_id = be-thesis_43
 # text = tilkik nek’na va gomanc’k’eya!
@@ -365,7 +365,7 @@
 8	?	?	PUNCT	Punct	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_59
-# text = Ahmediki ma Ayşes svara na mec’u komişkun.
+# text = Ahmedik ma Ayşes svara na mec’u komişkun.
 1	Ahmedik	Ahmedi	PROPN	_	_	6	nsubj	_	SpaceAfter=No
 2	ma	ma	PRON	Pron	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
 3	Ayşes	Ayşe	PROPN	Prop	_	6	iobj	_	_
@@ -376,7 +376,7 @@
 8	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = be-thesis_60
-# text = Ahmediki ma Ayşes svara na mecasere mepşonun
+# text = Ahmedik ma Ayşes svara na mecasere mepşonun
 1	Ahmedik	Ahmedi	NOUN	Propn	Case=Erg|Number=Sing|Person=3	6	nsubj	_	_
 2	ma	ma	NOUN	Pron	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
 3	Ayşes	Ayşe	PROPN	Propn	Case=Dat|Number=Sing|Person=3	6	iobj	_	_
@@ -934,8 +934,8 @@
 2	gamaxt'es	xt'	NOUN	_	Aspect=Perf|Number=Plur|Person=3|Tense=Past	0	root	_	SpacesAfter=\n
 
 # sent_id = dn-article_43
-# text = livadis dolo xt'es
-1	livadis	livadi	NOUN	_	Case=Dat	1	obl	_	_
+# text = livadis doloxt'es
+1	livadis	livadi	NOUN	_	Case=Dat	2	obl	_	_
 2	doloxt'es	xt'es	NOUN	_	Aspect=Perf|Number=Plur|Person=3|Tense=Pres	0	root	_	SpacesAfter=\n
 
 # sent_id = dn-article_44
@@ -1126,7 +1126,7 @@
 2	noseri	noser	ADJ	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
 3	vore	vore	AUX	_	Case=Nom|Number=Sing|Person=3	2	cop	_	_
 4	ya	ya	SCONJ	_	_	2	mark	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
+5	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = dnels-article_14
 # text = Ama opşa oncğoryari on, va it'urs.
@@ -1277,10 +1277,10 @@
 # sent_id = dnels48-article_10
 # text = Ham xamis k'itisk'ani ak'vaten.
 1	Ham	Ham	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-2	xamis	xami	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	compound	_	SpaceAfter=No
-5	k'itisk'ani	k'itisk'ani	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-6	ak'vaten	ak'va	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Cau	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
+2	xamis	xami	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	compound	_	_
+3	k'itisk'ani	k'itisk'ani	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obj	_	_
+4	ak'vaten	ak'va	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Cau	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = dnels48-article_11
 # text = Beres ordo anciru.
