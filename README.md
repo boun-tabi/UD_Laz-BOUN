@@ -22,7 +22,6 @@
 * 2020-11-15 v2.7
   * Initial release in Universal Dependencies.
 
-
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.7
@@ -34,7 +33,7 @@ UPOS: manual native
 XPOS: manual native
 Features: manual native
 Relations: manual native
-Contributors: Türk, Utku
+Contributors: Türk, Utku; Bayar, Kaan; Özercan, Ayşegül Dilara; Öztürk, Görkem Yiğit
 Contributing: elsewhere
 Contact: utkuturkboun@gmail.com
 ===============================================================================
