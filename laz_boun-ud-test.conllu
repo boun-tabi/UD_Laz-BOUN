@@ -2739,7 +2739,7 @@
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	5	ccomp	_	_
 4	navore	vore	AUX	_	_	3	cop	_	_
-5	uşkun	uşkun	VERB	_	_	0	root	_	_
+5	uşkun	uşkun	VERB	_	_	0	root	_	SpacesAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_10
@@ -3751,12 +3751,12 @@
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_84
-# text = Ham oxori opşa cami it’axu donu.
+# text = Ham oxori opşa cami it'axu donu.
 1	Ham	Ham	DET	_	Case=Nom|Number=Sing|Person=3	2	det	_	_
 2	oxori	oxori	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
 3	opşa	opşa	DET	_	Case=Nom|Number=Sing|Person=3	4	det	_	_
 4	cami	cami	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
-5	it’axu	t’ax 	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+5	it'axu	t'ax	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
 6	donu	onu	AUX	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
