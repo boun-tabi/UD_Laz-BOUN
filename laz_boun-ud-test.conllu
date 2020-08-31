@@ -366,7 +366,7 @@
 
 # sent_id = be-thesis_59
 # text = Ahmedik ma Ayşes svara na mec’u komişkun.
-1	Ahmedik	Ahmedi	PROPN	_	_	6	nsubj	_	SpaceAfter=No
+1	Ahmedik	Ahmedi	PROPN	_	_	6	nsubj	_	_
 2	ma	ma	PRON	Pron	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
 3	Ayşes	Ayşe	PROPN	Prop	_	6	iobj	_	_
 4	svara	svara	NOUN	Noun	_	6	obj	_	_
@@ -381,7 +381,7 @@
 2	ma	ma	NOUN	Pron	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
 3	Ayşes	Ayşe	PROPN	Propn	Case=Dat|Number=Sing|Person=3	6	iobj	_	_
 4	svara	svara	NOUN	Noun	Case=Nom|Number=Sing	6	obj	_	_
-5	na	na	SCONJ	_	_	6	mark	_	SpaceAfter=No
+5	na	na	SCONJ	_	_	6	mark	_	_
 6	mecasere	mecas	VERB	Verb	_	7	ccomp	_	_
 7	mepşonun	şon	VERB	Verb	_	0	root	_	SpacesAfter=\n
 
@@ -2738,8 +2738,8 @@
 1	Artes	Arte	PROPN	_	Case=Dat|Number=Sing|Person=3	5	nsubj	_	_
 2	ma	ma	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
 3	noseri	noseri	ADJ	_	_	5	ccomp	_	_
-4	navore	vore	AUX	_	_	3	cop	_	SpaceAfter=No
-5	uşkun	uşkun	VERB	_	_	0	root	_	SpaceAfter=No
+4	navore	vore	AUX	_	_	3	cop	_	_
+5	uşkun	uşkun	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = dars-article_10
@@ -3751,7 +3751,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = ozsccc-article_84
-# text = Ham oxori opşa cami itaxu donu.
+# text = Ham oxori opşa cami it’axu donu.
 1	Ham	Ham	DET	_	Case=Nom|Number=Sing|Person=3	2	det	_	_
 2	oxori	oxori	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
 3	opşa	opşa	DET	_	Case=Nom|Number=Sing|Person=3	4	det	_	_
