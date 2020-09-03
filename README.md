@@ -33,8 +33,8 @@ UPOS: manual native
 XPOS: manual native
 Features: manual native
 Relations: manual native
-Contributors: Türk, Utku; Bayar, Kaan; Özercan, Ayşegül Dilara; Öztürk, Görkem Yiğit; Bilgin, Betül
+Contributors:
 Contributing: elsewhere
-Contact: utkuturkboun@gmail.com
+Contact:
 ===============================================================================
 </pre>
