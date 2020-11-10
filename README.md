@@ -1,20 +1,31 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+Laz treebank that contains examples from a grammar book and linguistic articles.
 
 # Introduction
 
-...
+* Aim: setting the guidelines and the gold standard for Laz in UD.
+* All fields are manually annotated in v2.7 
+* Additionally includes translation, gloss, source of the sentence, and dialect information.
 
 
 # Acknowledgments
 
-...
+We thank Ömer Demirok and Balkız Öztürk for their comments and helps.
 
 ## References
 
-* (citation)
+ ```
+ @inproceedings{turk-etal-2020-laz,
+    title = "{F}irst {S}teps towards {U}niversal {D}ependencies for {L}az",
+    author = {T{\"u}rk, Utku  and
+      Bayar, Kaan  and
+      {\"O}zercan, Ay{\c{s}}eg{\"u}l Dilara and
+      {\"O}zt{\"u}rk, G{\"o}rkem Yi{\u{g}}it and
+      {\"O}zate{\c{s}}, {\c{S}}aziye Bet{\"u}l},
+    booktitle = "Proceedings of the 4th Universal Dependencies Workshop"
+}
+ ```
 
 
 # Changelog
@@ -33,8 +44,8 @@ UPOS: manual native
 XPOS: manual native
 Features: manual native
 Relations: manual native
-Contributors:
+Contributors: Türk, Utku; Bayar, Kaan; Özercan, Ayşegül Dilara; Öztürk, Görkem Yiğit; Özateş, Şaziye Betül
 Contributing: elsewhere
-Contact:
+Contact: utku.turk@boun.edu.tr
 ===============================================================================
 </pre>
